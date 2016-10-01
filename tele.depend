@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1416034055 source:c:\users\shubham verma\desktop\coding\tele\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1416034055 source:c:\users\shubham verma\desktop\tele\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
